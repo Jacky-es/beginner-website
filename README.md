@@ -1,2 +1,3 @@
-# beginner-website
-This is my first website I created, be cool with me.
+# Information
+This is my first website I ever created. Be nice with me please :D
+
